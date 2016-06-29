@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Nitro Type Car Hack_garage
-// @namespace    https://theprabhakar.blogspot.com/
+// @namespace    http://theprabhakar.in/
 // @version      1.0
 // @description  Change cars on Nitrotype.com
 // @author       Prabhakar Rai
