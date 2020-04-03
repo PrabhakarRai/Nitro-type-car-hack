@@ -3,4 +3,4 @@ These javascripts are made for changing the look of your garage and dealership o
 
 Those extra cars are visual only, so you will be able to use them in practice races only.
 
-Need any help regarding these scripts? - Message me on Facebook -> www.facebook.com/PrabhakarRaiOfficial
+Need any help regarding these scripts? - Drop a comment on my blog -> www.theprabhakar.in
