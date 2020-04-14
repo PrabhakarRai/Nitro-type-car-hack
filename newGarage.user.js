@@ -6,6 +6,8 @@
 // @author       Prabhakar Rai
 // @match        https://www.nitrotype.com/garage
 // @icon         https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/icon.jpg
+// @updateURL    https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/newGarage.user.js
+// @downloadURL  https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/newGarage.user.js
 // @require      https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/data.js
 // @grant unsafeWindow
 // @grant GM_addStyle
