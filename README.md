@@ -1,6 +1,9 @@
-# Nitro-type-car-hack
+# Nitro-type-car-hack - Updated Apr 2020
+
 These javascripts are made for changing the look of your garage and dealership on Nitro type and adding some extra cars in your garage.
 
-Those extra cars are visual only, so you will be able to use them in practice races only.
+Those extra cars are visual only, so you will not be able to sell them.
 
-Need any help regarding these scripts? - Drop a comment on my blog -> www.theprabhakar.in
+To install and use the script follow the tutorial given at - www.theprabhakar.in
+
+![Preview of Nitro Type Garage / Car Hack 2020](https://1.bp.blogspot.com/--njsGCtGKvQ/XpVLX3xsZpI/AAAAAAAAHUQ/R4yYovufqrsPWA_BNggP-cSyt9NZN5GFQCLcBGAsYHQ/s1600/hacked_nitrotype_garage_car.jpg)
