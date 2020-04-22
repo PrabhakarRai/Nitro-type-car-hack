@@ -1,3 +1,7 @@
+function hackmoney (needed_money){
+    //to be passed as a string for example "$1,956,458,897"
+    document.getElementsByClassName('profile-invCount')[0].innerHTML = needed_money;
+}
 function hackcars(needed_cars){
     var x;
     var empty_spots = document.querySelectorAll(".is-empty > .garage-vehicle > .garage-vehichleImage");
