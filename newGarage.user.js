@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nitro Type Garage Hack 2020
 // @namespace    https://theprabhakar.in/
-// @version      2.0
+// @version      3.0
 // @description  Garage Mod for adding cars - only visual
 // @author       Prabhakar Rai
 // @match        https://www.nitrotype.com/garage
@@ -40,11 +40,11 @@ window.onload = function() {
     *blog. www.theprabhakar.in****************/
     var needed_cars = [168, 183, 163, 118, 173,
                        169, 106, 47, 94, 68, 98,
-                       164, 160, 198, 133, 104, 92,
+                       164, 160, 198, 208, 104, 92,
                        49,202, 201, 197, 196, 174,
                        138, 188, 192, 175, 176, 177,
                        181, 73, 72, 58, 103, 180, 114,
-                       115, 116, 117, 119, 120, 121];
+                       115, 116, 207, 119, 120, 121];
 
     hackcars(needed_cars);
     /*Updated Version 1.1: Changes money visually.*/
