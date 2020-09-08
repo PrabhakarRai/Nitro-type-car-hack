@@ -212,7 +212,12 @@ function hackcars(needed_cars){
                           "Whiplash XS",
                           "The Hydro Planer",
                           "Timber Speeder",
-                          "Wampus' Waffle Wagon"];
+                          "Wampus' Waffle Wagon",
+                          "Webmobile Spider",
+                          "Rand Rover Evar",
+                          "SpaceZ Crew Draco",
+                          "MacLaro Sienna",
+                          "Calculatron"];
 
 
     var images_complete = ["https://www.nitrotype.com/cars/1_large_1.png",
@@ -422,7 +427,12 @@ function hackcars(needed_cars){
                            "https://www.nitrotype.com/cars/211_large_1.png",
                            "https://www.nitrotype.com/cars/212_large_1.png",
                            "https://www.nitrotype.com/cars/213_large_1.png",
-                           "https://www.nitrotype.com/cars/214_large_1.png"
+                           "https://www.nitrotype.com/cars/214_large_1.png",
+                           "https://www.nitrotype.com/cars/215_large_1.png",
+                           "https://www.nitrotype.com/cars/216_large_1.png",
+                           "https://www.nitrotype.com/cars/217_large_1.png",
+                           "https://www.nitrotype.com/cars/218_large_1.png",
+                           "https://www.nitrotype.com/cars/219_large_1.png"
                           ];
     var images = new Array;
     var names = new Array;
