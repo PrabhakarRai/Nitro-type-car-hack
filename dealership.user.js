@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Change cars on Nitrotype.com
 // @author       Prabhakar Rai
-// @match        https://www.nitrotype.com/dealership
+// @match        https://www.nitrotype.com/shop
 // @updateURL    https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/dealership.user.js
 // @downloadURL  https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/dealership.user.js
 // @icon https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/icon.jpg
